@@ -4,10 +4,10 @@ margin:0;
 
 .button {
     border-radius: 4px;
-   background-color: #0c6a11;
+   background-color: green;
 
     border: none;
-    color: #FFFFFF;
+    color: white;
     text-align: center;
     font-size: 28px;
     padding: 20px;
